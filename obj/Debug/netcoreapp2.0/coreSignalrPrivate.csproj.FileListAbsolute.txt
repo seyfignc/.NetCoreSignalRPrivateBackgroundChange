@@ -8,3 +8,14 @@
 /Users/borakasmer/coreSignalrPrivate/obj/Debug/netcoreapp2.0/coreSignalrPrivate.AssemblyInfo.cs
 /Users/borakasmer/coreSignalrPrivate/obj/Debug/netcoreapp2.0/coreSignalrPrivate.dll
 /Users/borakasmer/coreSignalrPrivate/obj/Debug/netcoreapp2.0/coreSignalrPrivate.pdb
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/bin/Debug/netcoreapp2.0/coreSignalrPrivate.deps.json
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/bin/Debug/netcoreapp2.0/coreSignalrPrivate.runtimeconfig.json
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/bin/Debug/netcoreapp2.0/coreSignalrPrivate.runtimeconfig.dev.json
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/bin/Debug/netcoreapp2.0/coreSignalrPrivate.dll
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/bin/Debug/netcoreapp2.0/coreSignalrPrivate.pdb
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.csprojResolveAssemblyReference.cache
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.csproj.CoreCompileInputs.cache
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.AssemblyInfoInputs.cache
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.AssemblyInfo.cs
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.dll
+/Users/seyfignc/Desktop/.NetCoreSignalRPrivateBackgroundChange/obj/Debug/netcoreapp2.0/coreSignalrPrivate.pdb
