@@ -45,7 +45,7 @@ namespace coreSignalrPrivate.Controllers
     {
         public override Task OnConnectedAsync()
         {
-            return Clients.Client(Context.ConnectionId).InvokeAsync("SetConnectionId", Context.ConnectionId);
+            return Clients.Client(Context.ConnectionId).InvokeAsync("SetConnectionId",Context.ConnectionId);
         }
         public override Task OnDisconnectedAsync(Exception exception)
         {
